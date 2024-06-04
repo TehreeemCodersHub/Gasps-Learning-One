@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+html,
+body {
+  height: 100% !important;
+  width: 100% !important;
+  /* overflow: hidden; */
+  overflow-x: hidden !important;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: crimson;
+}
+.boxTwo {
+  width: 200px;
+  height: 200px;
+  background-color: yellowgreen;
+}
+.box-5 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: black;
+}
+.box-6 {
+  width: 70px;
+  height: 70px;
+  background-color: blue;
+  border-radius: 50%;
+}
+
+h2 {
+  margin-left: 533px;
+}
+.banner-text {
+  font-size: 100px;
+}
+
+.data-container {
+  height: 80vh;
+}
